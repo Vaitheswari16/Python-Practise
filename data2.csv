@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Salary,Experience,JoinDate
+101,John,IT,25,45000,2,2023-01-15
+102,Alice,HR,28,,4,15/02/2023
+103,Bob,Finance,32,65000,7,2023/03/20
+104,David,IT,,55000,5,32/01/2023
+105,Emma,Marketing,26,48000,,2023-13-10
+106,Michael,Finance,35,72000,10,
+107,Sophia,HR,31,,6,07-15-2023
+108,James,IT,27,51000,4,2023.08.22
+109,Olivia,Marketing,,60000,7,not available
+110,Liam,Finance,33,68000,,2023-11-31
